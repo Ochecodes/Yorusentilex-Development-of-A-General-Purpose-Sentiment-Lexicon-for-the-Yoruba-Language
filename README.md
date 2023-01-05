@@ -1,0 +1,1 @@
+# Yorusentilex-Development-of-a-General-Purpose-Sentiment-Lexicon-for-the-Yoruba-language
